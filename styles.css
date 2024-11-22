@@ -7,13 +7,14 @@ body {
     align-items: center;
     height: 100vh;
     margin: 0;
-    background: #87CEEB;
+    background-color: #030728;
+    background:url("/IMAGE/bg.png")  #030728 no-repeat center
     
 }
 
 .weather-app {
     text-align: center;
-    background-color: white;
+    background-color:  #fff;
     padding: 20px;
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
@@ -34,6 +35,9 @@ button {
 
 .weather-info {
     margin-top: 20px;
+}
+button:hover{
+    background-color:  #030728;
 }
     
 
