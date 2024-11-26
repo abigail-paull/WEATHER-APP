@@ -10,6 +10,6 @@ Create a folder name Weather App, Drag and drop it inside your VS Code editor.
 then create  a file name index.html, styles.css, and script.js
 You can add image folder if you have any image you want to add in your project.
 
-LINKS
+LINKS:
 Make sure you link your styles.css then followed by script.js
 
